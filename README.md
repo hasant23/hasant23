@@ -1,5 +1,5 @@
 # README
-![snake svg](https://github.com/hasant23/HASANT23/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/hasant23/hasant23/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Hey there, I'm Hasan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <h3 align="center">Join to my DEVOPS Journey
 
