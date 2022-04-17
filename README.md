@@ -4,7 +4,9 @@
 
   
 -👨🎓 I’m an Aws && Devops
+  
 - 👨🏫 I’m interested in IT 👀 I’m currently learning AWS and DevOps  -🥇 I like 🏊♂, ⛹♂ 💞️ 
+  
 -I’m looking to collaborate on DevOps;
 
 
