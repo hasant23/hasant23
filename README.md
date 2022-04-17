@@ -1,11 +1,11 @@
 # README
-![snake svg](https://github.com/hasant23/hasant23/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Hey there, I'm Hasan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <h3 align="center">Join to my AWS-DEVOPS Journey
 
   
   👨🎓 I’m an Aws && Devops
-- 👨🏫 I’m interested in IT 👀 I’m currently learning AWS and DevOps  🥇 I like 🏊♂, ⛹♂, 🚵♂,  💞️ I’m looking to collaborate on DevOps;
+- 👨🏫 I’m interested in IT 👀 I’m currently learning AWS and DevOps  🥇 I like 🏊♂, ⛹♂ 💞️ I’m looking to collaborate on DevOps;
+
 
 <p> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="10%"> <img src="https://cdn.wmaraci.com/nedir/Microsoft-Azure.png" width="10%"> <img src="https://1000logos.net/wp-content/uploads/2020/05/Logo-Google-Cloud.jpg" width="10%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="15%"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="12%"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="9%"> <img src="https://www.stratoscale.com/wp-content/uploads/2019/04/Kubernetes-logo.png" width="7%"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" width="12%"> <img src="https://marka-logo.com/wp-content/uploads/2020/09/Linux-Logo.png" width="10%">
 
