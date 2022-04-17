@@ -1,12 +1,7 @@
 # README
 ![snake svg](https://github.com/hasant23/hasant23/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Hey there, I'm Hasan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<h3 align="center">Join to my DEVOPS Journey
-
-<a href="#"><img width="50%" height="auto" src="![image]("C:\Users\Toshiba\Desktop\Ekran Alıntısı.JPG")" height="75px"/></a>
-
-## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D03AQH4PAnX3DHGMQ/profile-displayphoto-shrink_200_200/0/1643401413919?e=1652918400&v=beta&t=S9AHcKmwjkNKYOATmVAvZb5kI2ESoGrz7jeqzFqkqCI" >
-
+<h3 align="center">Join to my AWS-DEVOPS Journey
   
 - 👋 Hi, I’m @Hasan
 - 👨🎓 I’m an Aws && Devops
